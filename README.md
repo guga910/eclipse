@@ -1,2 +1,2 @@
 # eclipse
-Interaçãp da IDE Eclipse com o GitHub
+Interação da IDE Eclipse com o GitHub
